@@ -32,13 +32,37 @@ Nächster Schritt nach Freigabe: [`09-shot-list.md`](./09-shot-list.md) ableiten
 |------|-----|-------------|---------------------------|
 | JP Stern Photography | https://jpstern.com | Foto-Qualität, klare Typo, ruhiges Layout | Dunkles Theme (Magenmorsellen = warm/hell) |
 
-### Weitere Referenzen (ausfüllen)
+### Weitere Referenzen (Vorschlag — bitte ansehen & bewerten)
+
+**So prüfen:** Je Site 2 Minuten — Startseite, eine Produkt-/Sorten-Seite, Mobile (Cmd+Shift+M im Browser). Dann unten bei «Hanspeter — Kurzbewertung» anpassen.
 
 | # | Site | URL | Gefällt mir weil … | Nein weil … |
 |---|------|-----|-------------------|-------------|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | **Läckerli Huus** (Basel) | https://www.laeckerli-huus.ch | Basler Tradition, warme Markenwelt, «Heimat»-Gefühl, festliche Saison — **direkt vergleichbar** mit eurer Zielgruppe | Grössere Firma, evtl. zu «corporate»; Shop zu dominant für euren Off-Season-Modus |
+| 2 | **Sprüngli** (Zürich) | https://www.spruengli.ch | Edle Confiserie seit 1836, viel Weissraum, starke Produktfotos, klassische Serif — **Qualitätsmassstab CH** | Zu luxuriös/grossstädtisch; Grün/Logo-Farben nicht eure; nicht Basler Identität |
+| 3 | **Läderach** (CH) | https://www.laederach.com/ch-de/ | Moderne Artisan-Marke, klares Sorten-Grid, gute Mobile-UX, warme Produktbilder | Wirkt wie Kette/Franchise; weniger «Familie am Marktstand»; evtl. zu glatt |
+| 4 | *(optional)* | | | |
+
+### Synthese — wohin die Reise gehen sollte
+
+Aus den Referenzen + jpstern ergibt sich als **Magenmorsellen-Mix**:
+
+| Von … | Übernehmen |
+|-------|------------|
+| jpstern.com | Foto-Qualität, Ruhe, klare Navigation |
+| Läckerli Huus | Basler Wärme, Tradition, dezente Festlichkeit |
+| Sprüngli | Weissraum, elegante Typo, Vertrauen |
+| Läderach | Sorten-Grid, mobile Shop-Logik (Phase 2) |
+
+**Nicht mischen:** Dunkles jpstern-Theme + glitzernder Weihnachtsmarkt-Kitsch + WooCommerce-Standard-Grid.
+
+### Deine Reaktion (bitte ausfüllen oder mir sagen)
+
+| Referenz | 👍 / 👎 / ± | Kurz warum |
+|----------|-------------|------------|
+| Läckerli Huus | | |
+| Sprüngli | | |
+| Läderach | | |
 
 **Suchrichtungen** (zum Stöbern):
 - Artisan / Confiserie / handgemachte Süsswaren
@@ -49,10 +73,10 @@ Nächster Schritt nach Freigabe: [`09-shot-list.md`](./09-shot-list.md) ableiten
 
 Nach dem Sammeln: Kreuze an, was zusammenpasst.
 
-- [ ] **Hell & warm** (Creme, Holz, warmes Licht)
+- [x] **Hell & warm** (Creme, Holz, warmes Licht) — *Vorschlag Agent*
 - [ ] **Etwas dunkler / edel** (Bordeaux, Goldakzente)
-- [ ] **Viel Weissraum** (minimal, jpstern-ähnlich)
-- [ ] **Reicher / festlicher** (Muster, saisonale Dekoration — sparsam)
+- [x] **Viel Weissraum** (minimal, jpstern-ähnlich) — *Vorschlag Agent*
+- [x] **Reicher / festlicher** (Muster, saisonale Dekoration — sparsam) — *nur Saison-Banner, nicht ganze Site*
 - [ ] **Andere Richtung:** _______________________________
 
 ---
@@ -77,8 +101,8 @@ Vorschlag als Startpunkt — **anpassen nach Moodboard**.
 ### Farb-Notizen (ausfüllen)
 
 ```
-Was Hanspeter mag:
-Was Hanspeter nicht mag:
+Was Hanspeter mag:   (z. B. «Läckerli Huus Startseite», «Sprüngli Typo»)
+Was Hanspeter nicht mag: (z. B. «zu corporate», «zu dunkel»)
 ```
 
 ---
@@ -233,6 +257,11 @@ Detail in [`09-shot-list.md`](./09-shot-list.md) — hier nur die Verknüpfung D
 ---
 
 ## Anhang: Notizen & Links
+
+**Referenzen im Browser öffnen (CLI):**
+```bash
+open https://www.laeckerli-huus.ch https://www.spruengli.ch https://www.laederach.com/ch-de/ https://jpstern.com
+```
 
 ```
 (Platz für Screenshots, Pinterest-Links, Farbfelder, Skizzen)
