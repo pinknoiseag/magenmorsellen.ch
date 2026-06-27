@@ -1,0 +1,12 @@
+.DS_Store
+*.zip
+
+# Astro site (web/) — when created
+web/node_modules/
+web/dist/
+web/.astro/
+web/.env
+web/.env.production
+
+# Large raw photos — optimize into web/public locally
+assets/raw/**
