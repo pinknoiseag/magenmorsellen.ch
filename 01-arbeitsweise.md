@@ -49,8 +49,8 @@ Am Markt unterstützen weiterhin **Verkäuferinnen am Stand**. Website und Saiso
 
 ## Nächste Schritte
 
-1. **Design-Brief / Moodboard** — siehe Relaunch-Plan (08, in Arbeit)
-2. **Shot List + Produkt-Shoot** — jpstern-Qualität
+1. **Design-Brief / Moodboard** — [08-design-brief.md](./08-design-brief.md) ausfüllen & freigeben
+2. **Shot List + Produkt-Shoot** — [09-shot-list.md](./09-shot-list.md), jpstern-Qualität
 3. **Content-Export** aus WordPress
 4. **Readiness Gate** — dann explizit «bau»
 

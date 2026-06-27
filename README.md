@@ -8,7 +8,8 @@ Projektordner für Analyse, Planung und spätere Umsetzung von **magenmorsellen.
 |-------|--------|
 | Ist-Analyse | ✅ erledigt (Juni 2026) |
 | Hosting | ✅ Hostpoint + Statik |
-| Relaunch-Plan (Design + Inhalt) | ⏳ Moodboard + Fotos als Nächstes |
+| Design-Brief / Moodboard | ⏳ [`08-design-brief.md`](./08-design-brief.md) — ausfüllen |
+| Shot List / Fotos | ⏳ nach Freigabe Brief — [`09-shot-list.md`](./09-shot-list.md) |
 | E-Commerce (Shop) | ⏳ Phase 2 — Stripe Payment Links |
 | Git / GitHub | ⏳ Repo `pinknoiseag/magenmorsellen.ch` vorbereitet |
 
@@ -48,6 +49,8 @@ git push -u origin main
 | [05-hosting.md](./05-hosting.md) | Hosting — Entscheidungen, offene Punkte |
 | [06-vorschlag-architektur.md](./06-vorschlag-architektur.md) | Empfehlung: Astro, Stripe |
 | [07-hosting-entscheidung.md](./07-hosting-entscheidung.md) | **Kostenvergleich, Empfehlung: Hostpoint + Statik** |
+| [08-design-brief.md](./08-design-brief.md) | **Moodboard, Farben, Typo, Wireframes** |
+| [09-shot-list.md](./09-shot-list.md) | Produktfotografie — nach Design-Freigabe |
 
 ## Kurzüberblick Marke
 
