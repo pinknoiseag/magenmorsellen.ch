@@ -266,3 +266,43 @@ open https://www.laeckerli-huus.ch https://www.spruengli.ch https://www.laederac
 ```
 (Platz für Screenshots, Pinterest-Links, Farbfelder, Skizzen)
 ```
+
+zum einfügen oben!¨
+
+# 08-design-brief.md
+
+**Design-Brief — Magenmorsellen Web-Relaunch**  
+**Version:** 1.2 | **Stand:** 27. Juni 2026 | **Verantwortlich:** JP Stern + Grok
+
+## 1. Ziel & Positionierung
+- Markenkern: Authentische, handgefertigte Basler Zuckerspezialität seit 1899 – familiär, nostalgisch, bunt und einzigartig.
+- Logo: Bleibt unverändert (stark und wiedererkennbar).
+- Zielgruppe: Basler, Schweizer, Touristen, Familien, Geschenkkäufer.
+- Tonality: Warm, einladend, authentisch, stolz auf die Familientradition.
+
+## 2. Historische Bilder (Key Assets)
+- **Oma am Stand** (ca. 1936–1942, Oma Jg. 1908, ca. 28–34 Jahre) → **Hero-Bild für die Geschichte-Seite** (16:9 Version).
+- **Aktueller Stand** → Hero oder Teaser auf Startseite.
+- **Zeitungsartikel (Onkel)** → Für Geschichte/Familie.
+- **Uraltes Schild (Carl Thon, ca. 1925–1930)** → Starkes Heritage-Element (Hintergrund entfernt, Vintage-Look).
+
+**Historische Einordnung**:
+- Schild: Vor Übernahme durch Familie Stern (vor 1931/32), wahrscheinlich 1925–1930 (nach WWI, vor WWII-Rationierung).
+- Oma-Foto: Späte 1930er Jahre.
+
+## 3. Farbpalette
+- Primär: Burgunder/Rotbraun, warmes Gold, Off-White/Creme.
+- Akzente: Bunte Morsellen-Farben.
+
+## 4. Bildsprache & Fotografie
+- Starke Mischung aus historischen (Vintage) und neuen jpstern-Fotos.
+- Referenz: Sprüngli-Stil (elegant, handwerklich, warme Food-Fotografie, viel Weißraum).
+
+## 5. Layout & Struktur
+- Clean, airy, mobile-first.
+- Hero-Bereiche mit historischen Fotos.
+- Klare Navigation: Home, Geschichte, Sorten, Märkte, Galerie, Shop, Kontakt.
+
+## 6. Weitere Hinweise
+- Viel Weißraum, elegante Typografie (Serif für Headlines).
+- Saison-Elemente prominent.
